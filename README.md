@@ -13,7 +13,7 @@ Hotels plan staffing, pricing and inventory around expected stays, so cancellati
 
 ## 🖥️ Dashboard
 
-![Dashboard](dashboard/hotel_booking_dashboard.png)
+![Dashboard](hotel_booking/dashboard/hotel_booking_dashboard.png)
 
 ## 📊 Headline Metrics
 
