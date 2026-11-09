@@ -1,0 +1,7 @@
+lead_time_bucket,total_bookings,cancellations,cancel_rate_pct
+"1. Same Day",6345,430,6.78
+"2. 1-30 Days",32361,6755,20.87
+"3. 31-90 Days",29553,11141,37.70
+"4. 91-180 Days",26439,11821,44.71
+"5. 181-365 Days",21544,11947,55.45
+"6. 365+ Days",3148,2130,67.66

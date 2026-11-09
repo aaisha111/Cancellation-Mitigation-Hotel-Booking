@@ -1,0 +1,1001 @@
+is_canceled,lead_time,deposit_type,market_segment,booking_source,previous_cancellations
+0,342,"No Deposit",Direct,Direct,0
+0,737,"No Deposit",Direct,Direct,0
+0,7,"No Deposit",Direct,Direct,0
+0,13,"No Deposit",Corporate,Agent,0
+0,14,"No Deposit","Online TA",Agent,0
+0,14,"No Deposit","Online TA",Agent,0
+0,0,"No Deposit",Direct,Direct,0
+0,9,"No Deposit",Direct,Agent,0
+1,85,"No Deposit","Online TA",Agent,0
+1,75,"No Deposit","Offline TA/TO",Agent,0
+1,23,"No Deposit","Online TA",Agent,0
+0,35,"No Deposit","Online TA",Agent,0
+0,68,"No Deposit","Online TA",Agent,0
+0,18,"No Deposit","Online TA",Agent,0
+0,37,"No Deposit","Online TA",Agent,0
+0,68,"No Deposit","Online TA",Agent,0
+0,37,"No Deposit","Offline TA/TO",Agent,0
+0,12,"No Deposit","Online TA",Agent,0
+0,0,"No Deposit",Corporate,Direct,0
+0,7,"No Deposit",Direct,Agent,0
+0,37,"No Deposit","Online TA",Agent,0
+0,72,"No Deposit",Direct,Agent,0
+0,72,"No Deposit",Direct,Agent,0
+0,72,"No Deposit",Direct,Agent,0
+0,127,"No Deposit","Offline TA/TO",Agent,0
+0,78,"No Deposit","Offline TA/TO",Agent,0
+0,48,"No Deposit","Offline TA/TO",Agent,0
+1,60,"No Deposit","Online TA",Agent,0
+0,77,"No Deposit","Online TA",Agent,0
+0,99,"No Deposit","Online TA",Agent,0
+0,118,"No Deposit",Direct,Direct,0
+0,95,"No Deposit","Offline TA/TO",Agent,0
+1,96,"No Deposit",Direct,Direct,0
+0,69,"No Deposit","Offline TA/TO",Agent,0
+1,45,"No Deposit","Online TA",Agent,0
+1,40,"No Deposit","Online TA",Agent,0
+0,15,"No Deposit","Online TA",Agent,0
+0,36,"No Deposit","Online TA",Agent,0
+1,43,"No Deposit","Online TA",Agent,0
+0,70,"No Deposit",Direct,Agent,0
+1,45,"No Deposit","Online TA",Agent,0
+0,45,"No Deposit","Offline TA/TO",Agent,0
+0,16,"No Deposit",Direct,Direct,0
+0,70,"No Deposit",Direct,Agent,0
+0,107,"No Deposit","Online TA",Agent,0
+1,47,"No Deposit","Online TA",Agent,0
+0,96,"No Deposit","Offline TA/TO",Agent,0
+0,113,"No Deposit","Offline TA/TO",Agent,0
+0,90,"No Deposit","Offline TA/TO",Agent,0
+0,50,"No Deposit","Online TA",Agent,0
+0,113,"No Deposit","Offline TA/TO",Agent,0
+0,93,"No Deposit","Offline TA/TO",Agent,0
+0,76,"No Deposit","Offline TA/TO",Agent,0
+0,3,"No Deposit","Online TA",Agent,0
+0,1,"No Deposit","Online TA",Agent,0
+0,1,"No Deposit",Direct,Direct,0
+0,0,"No Deposit",Direct,Direct,0
+0,0,"No Deposit","Online TA",Agent,0
+0,0,"No Deposit",Direct,Direct,0
+0,14,"No Deposit","Online TA",Agent,0
+0,10,"No Deposit","Online TA",Agent,0
+0,5,"No Deposit","Online TA",Agent,0
+0,17,"No Deposit",Direct,Agent,0
+0,93,"No Deposit","Offline TA/TO",Agent,0
+1,3,"No Deposit","Online TA",Agent,0
+0,10,"No Deposit","Online TA",Agent,0
+0,3,"No Deposit","Online TA",Agent,0
+0,51,"No Deposit","Online TA",Agent,0
+1,71,"No Deposit","Offline TA/TO",Agent,0
+1,63,"No Deposit","Online TA",Agent,0
+1,62,"No Deposit","Online TA",Agent,0
+1,101,"No Deposit","Online TA",Agent,0
+0,2,"No Deposit","Offline TA/TO",Agent,0
+0,15,"No Deposit","Online TA",Agent,0
+1,51,"No Deposit","Online TA",Agent,0
+0,3,"No Deposit","Online TA",Agent,0
+1,48,"No Deposit","Online TA",Agent,0
+0,2,"No Deposit","Online TA",Agent,0
+0,72,"No Deposit","Offline TA/TO",Agent,0
+0,81,"No Deposit","Offline TA/TO",Agent,0
+0,99,"No Deposit","Offline TA/TO",Agent,0
+1,368,"No Deposit","Offline TA/TO",Agent,0
+0,364,"No Deposit","Offline TA/TO",Agent,0
+1,81,"No Deposit",Direct,Agent,0
+0,99,"No Deposit","Offline TA/TO",Agent,0
+0,324,"No Deposit","Offline TA/TO",Agent,0
+0,69,"No Deposit","Online TA",Agent,0
+1,79,"No Deposit","Offline TA/TO",Agent,0
+0,12,"No Deposit","Online TA",Agent,0
+0,9,"No Deposit","Online TA",Agent,0
+0,1,"No Deposit","Online TA",Agent,0
+0,21,"No Deposit","Online TA",Agent,0
+0,9,"No Deposit","Online TA",Agent,0
+0,109,"No Deposit","Online TA",Agent,0
+1,109,"No Deposit","Online TA",Agent,0
+1,72,"No Deposit","Online TA",Agent,0
+1,63,"No Deposit","Online TA",Agent,0
+0,63,"No Deposit","Offline TA/TO",Agent,0
+0,101,"No Deposit","Online TA",Agent,0
+0,102,"No Deposit",Direct,Agent,0
+0,4,"No Deposit",Direct,Agent,0
+0,98,"No Deposit","Offline TA/TO",Agent,0
+0,92,"No Deposit","Offline TA/TO",Agent,0
+0,95,"No Deposit","Online TA",Agent,0
+0,102,"No Deposit","Online TA",Agent,0
+1,26,"No Deposit","Online TA",Agent,0
+1,73,"No Deposit",Direct,Agent,0
+1,102,"No Deposit","Online TA",Agent,0
+0,115,"No Deposit","Offline TA/TO",Agent,0
+0,102,"No Deposit","Online TA",Agent,0
+0,86,"No Deposit","Online TA",Agent,0
+0,78,"No Deposit","Online TA",Agent,0
+0,52,"No Deposit","Online TA",Agent,0
+0,29,"No Deposit","Online TA",Agent,0
+1,101,"No Deposit","Online TA",Agent,0
+0,109,"No Deposit","Online TA",Agent,0
+0,92,"No Deposit","Offline TA/TO",Agent,0
+0,92,"No Deposit","Offline TA/TO",Agent,0
+0,79,"No Deposit",Direct,Agent,0
+0,2,"No Deposit","Online TA",Agent,0
+0,30,"No Deposit","Offline TA/TO",Agent,0
+1,51,"No Deposit","Online TA",Agent,0
+1,36,"No Deposit",Direct,Agent,0
+1,73,"No Deposit","Online TA",Agent,0
+1,33,"No Deposit","Online TA",Agent,0
+0,32,"No Deposit",Complementary,Direct,0
+0,8,"No Deposit","Online TA",Agent,0
+0,100,"No Deposit","Online TA",Agent,0
+0,1,"No Deposit","Online TA",Agent,0
+0,100,"No Deposit","Online TA",Agent,0
+0,100,"No Deposit","Online TA",Agent,0
+0,9,"No Deposit","Online TA",Agent,0
+1,5,"No Deposit","Online TA",Agent,0
+0,0,"No Deposit","Online TA",Agent,0
+0,9,"No Deposit","Online TA",Agent,0
+0,2,"No Deposit","Online TA",Agent,0
+0,2,"No Deposit","Online TA",Agent,0
+0,9,"No Deposit","Online TA",Agent,0
+1,5,"No Deposit","Online TA",Agent,0
+0,2,"No Deposit",Direct,Direct,0
+0,44,"No Deposit","Online TA",Agent,0
+0,80,"No Deposit","Online TA",Agent,0
+0,97,"No Deposit","Online TA",Agent,0
+0,109,"No Deposit","Offline TA/TO",Agent,0
+0,30,"No Deposit","Online TA",Agent,0
+0,64,"No Deposit","Online TA",Agent,0
+0,39,"No Deposit","Online TA",Agent,0
+0,90,"No Deposit","Online TA",Agent,0
+1,34,"No Deposit","Online TA",Agent,0
+1,93,"No Deposit","Offline TA/TO",Agent,0
+0,97,"No Deposit",Direct,Agent,0
+0,29,"No Deposit","Online TA",Agent,0
+1,101,"No Deposit","Online TA",Agent,0
+0,27,"No Deposit","Offline TA/TO",Agent,0
+0,8,"No Deposit","Online TA",Agent,0
+0,82,"No Deposit","Offline TA/TO",Agent,0
+0,94,"No Deposit",Direct,Direct,0
+0,110,"No Deposit","Offline TA/TO",Agent,0
+0,96,"No Deposit","Offline TA/TO",Agent,0
+0,79,"No Deposit","Offline TA/TO",Agent,0
+0,115,"No Deposit","Online TA",Agent,0
+0,111,"No Deposit","Online TA",Agent,0
+0,51,"No Deposit","Online TA",Agent,0
+0,94,"No Deposit","Offline TA/TO",Agent,0
+0,81,"No Deposit",Direct,Agent,0
+0,84,"No Deposit","Online TA",Agent,0
+0,51,"No Deposit","Online TA",Agent,0
+0,111,"No Deposit","Online TA",Agent,0
+0,0,"No Deposit",Direct,Agent,0
+0,2,"No Deposit",Direct,Direct,0
+0,7,"No Deposit","Online TA",Agent,0
+0,98,"No Deposit","Online TA",Agent,0
+0,95,"No Deposit","Online TA",Agent,0
+1,48,"No Deposit","Online TA",Agent,0
+0,66,"No Deposit","Offline TA/TO",Agent,0
+0,104,"No Deposit","Online TA",Agent,0
+0,28,"No Deposit","Online TA",Agent,0
+0,34,"No Deposit",Direct,Agent,0
+0,98,"No Deposit","Online TA",Agent,0
+0,104,"No Deposit","Online TA",Agent,0
+0,68,"No Deposit","Online TA",Agent,0
+1,86,"No Deposit","Offline TA/TO",Agent,0
+0,258,"No Deposit","Offline TA/TO",Agent,0
+0,111,"No Deposit","Online TA",Agent,0
+1,94,"No Deposit","Online TA",Agent,0
+0,112,"No Deposit","Offline TA/TO",Agent,0
+0,100,"No Deposit","Offline TA/TO",Agent,0
+0,33,"No Deposit",Direct,Agent,0
+0,97,"No Deposit","Offline TA/TO",Agent,0
+0,80,"No Deposit",Direct,Direct,0
+0,90,"No Deposit","Offline TA/TO",Agent,0
+0,111,"No Deposit","Offline TA/TO",Agent,0
+0,65,"No Deposit","Offline TA/TO",Agent,0
+1,67,"No Deposit","Online TA",Agent,0
+0,55,"No Deposit","Online TA",Agent,0
+0,21,"No Deposit",Direct,Agent,0
+0,8,"No Deposit",Direct,Direct,0
+0,8,"No Deposit","Online TA",Agent,0
+0,0,"No Deposit","Online TA",Agent,0
+0,0,"No Deposit",Direct,Direct,0
+0,0,"No Deposit","Online TA",Agent,0
+0,8,"No Deposit","Online TA",Agent,0
+0,66,"No Deposit","Online TA",Agent,0
+0,88,"No Deposit","Offline TA/TO",Agent,0
+0,0,"No Deposit",Direct,Direct,0
+1,43,"No Deposit","Offline TA/TO",Agent,0
+1,88,"No Deposit","Online TA",Agent,0
+0,54,"No Deposit","Offline TA/TO",Agent,0
+1,292,"No Deposit","Offline TA/TO",Agent,0
+0,112,"No Deposit","Offline TA/TO",Agent,0
+0,68,"No Deposit","Online TA",Agent,0
+0,7,"No Deposit","Online TA",Agent,0
+0,1,"No Deposit","Online TA",Agent,0
+1,113,"No Deposit","Online TA",Agent,0
+0,5,"No Deposit","Online TA",Agent,0
+0,83,"No Deposit","Offline TA/TO",Agent,0
+1,105,"No Deposit","Online TA",Agent,0
+0,0,"No Deposit","Offline TA/TO",Agent,0
+1,1,"No Deposit",Corporate,Direct,0
+1,1,"No Deposit",Corporate,Direct,0
+0,1,"No Deposit",Corporate,Direct,0
+1,102,"No Deposit",Direct,Agent,0
+0,113,"No Deposit",Direct,Agent,0
+1,280,"No Deposit","Offline TA/TO",Agent,0
+0,96,"No Deposit","Online TA",Agent,0
+0,394,"No Deposit","Offline TA/TO",Agent,0
+0,33,"No Deposit","Online TA",Agent,0
+0,82,"No Deposit",Direct,Agent,0
+0,100,"No Deposit","Online TA",Agent,0
+0,100,"No Deposit","Online TA",Agent,0
+0,17,"No Deposit","Online TA",Agent,0
+0,68,"No Deposit",Direct,Agent,0
+0,12,"No Deposit",Direct,Direct,0
+1,77,"No Deposit",Direct,Agent,0
+1,24,"No Deposit","Online TA",Agent,0
+1,44,"No Deposit","Online TA",Agent,0
+0,78,"No Deposit","Online TA",Agent,0
+1,17,"No Deposit","Online TA",Agent,0
+1,103,"No Deposit","Online TA",Agent,0
+0,16,"No Deposit",Direct,Agent,0
+0,14,"No Deposit","Online TA",Agent,0
+0,77,"No Deposit","Offline TA/TO",Agent,0
+0,90,"No Deposit","Offline TA/TO",Agent,0
+0,90,"No Deposit","Offline TA/TO",Agent,0
+0,90,"No Deposit","Offline TA/TO",Agent,0
+0,366,"No Deposit","Offline TA/TO",Agent,0
+0,249,"No Deposit","Online TA",Agent,0
+1,69,"No Deposit","Online TA",Agent,0
+0,10,"No Deposit",Direct,Agent,0
+0,22,"No Deposit","Online TA",Agent,0
+0,91,"No Deposit","Online TA",Agent,0
+0,23,"No Deposit","Online TA",Agent,0
+0,11,"No Deposit","Online TA",Agent,0
+0,3,"No Deposit","Online TA",Agent,0
+0,13,"No Deposit","Online TA",Agent,0
+0,108,"No Deposit","Online TA",Agent,0
+0,91,"No Deposit","Online TA",Agent,0
+0,37,"No Deposit","Online TA",Agent,0
+0,21,"No Deposit",Direct,Agent,0
+0,106,"No Deposit","Online TA",Agent,0
+0,30,"No Deposit",Direct,Direct,0
+0,30,"No Deposit",Direct,Direct,0
+1,51,"No Deposit","Online TA",Agent,0
+0,79,"No Deposit","Online TA",Agent,0
+0,21,"No Deposit",Direct,Agent,0
+0,35,"No Deposit","Online TA",Agent,0
+0,78,"No Deposit","Online TA",Agent,0
+0,31,"No Deposit",Direct,Agent,0
+0,78,"No Deposit","Online TA",Agent,0
+0,78,"No Deposit","Online TA",Agent,0
+0,44,"No Deposit","Offline TA/TO",Agent,0
+0,34,"No Deposit","Online TA",Agent,0
+0,87,"No Deposit","Offline TA/TO",Agent,0
+0,11,"No Deposit",Direct,Agent,0
+0,115,"No Deposit","Online TA",Agent,0
+0,86,"No Deposit","Online TA",Agent,0
+0,41,"No Deposit","Online TA",Agent,0
+0,32,"No Deposit","Online TA",Agent,0
+0,34,"No Deposit","Online TA",Agent,0
+0,34,"No Deposit","Online TA",Agent,0
+1,100,"No Deposit","Offline TA/TO",Agent,0
+0,44,"No Deposit","Online TA",Agent,0
+0,304,"No Deposit",Direct,Agent,0
+1,36,"No Deposit","Online TA",Agent,0
+0,117,"No Deposit","Offline TA/TO",Agent,0
+0,70,"No Deposit","Online TA",Agent,0
+0,110,"No Deposit",Direct,Agent,0
+1,109,"No Deposit","Online TA",Agent,0
+0,33,"No Deposit","Online TA",Agent,0
+0,33,"No Deposit","Online TA",Agent,0
+0,33,"No Deposit","Online TA",Agent,0
+0,0,"No Deposit",Direct,Direct,0
+0,0,"No Deposit","Online TA",Agent,0
+0,0,"No Deposit",Direct,Direct,0
+0,0,"No Deposit","Online TA",Agent,0
+0,84,"No Deposit",Corporate,Direct,0
+0,71,"No Deposit","Offline TA/TO",Agent,0
+0,16,"No Deposit","Online TA",Agent,0
+0,54,"No Deposit","Online TA",Agent,0
+0,8,"No Deposit","Online TA",Agent,0
+0,36,"No Deposit","Offline TA/TO",Agent,0
+0,40,"No Deposit","Online TA",Agent,0
+1,59,"No Deposit","Online TA",Agent,0
+0,79,"No Deposit",Direct,Agent,0
+0,32,"No Deposit","Online TA",Agent,0
+0,110,"No Deposit",Direct,Agent,0
+0,33,"No Deposit","Online TA",Agent,0
+0,53,"No Deposit","Online TA",Agent,0
+0,2,"No Deposit","Online TA",Agent,0
+0,8,"No Deposit","Online TA",Agent,0
+1,72,"No Deposit","Online TA",Agent,0
+0,12,"No Deposit","Online TA",Agent,0
+0,48,"No Deposit","Offline TA/TO",Agent,0
+0,90,"No Deposit","Offline TA/TO",Agent,0
+0,34,"No Deposit","Offline TA/TO",Agent,0
+1,58,"No Deposit",Direct,Agent,0
+0,59,"No Deposit","Offline TA/TO",Agent,0
+0,90,"No Deposit","Offline TA/TO",Agent,0
+0,116,"No Deposit","Offline TA/TO",Agent,0
+0,31,"No Deposit","Offline TA/TO",Agent,0
+1,51,"No Deposit","Online TA",Agent,0
+0,48,"No Deposit","Offline TA/TO",Agent,0
+0,59,"No Deposit","Online TA",Agent,0
+1,97,"No Deposit","Online TA",Agent,0
+0,12,"No Deposit","Online TA",Agent,0
+0,64,"No Deposit","Online TA",Agent,0
+0,31,"No Deposit","Offline TA/TO",Agent,0
+0,59,"No Deposit","Offline TA/TO",Agent,0
+1,55,"No Deposit","Offline TA/TO",Agent,0
+0,81,"No Deposit","Offline TA/TO",Agent,0
+0,1,"No Deposit","Online TA",Agent,0
+0,34,"No Deposit","Online TA",Agent,0
+0,13,"No Deposit","Online TA",Agent,0
+0,40,"No Deposit","Online TA",Agent,0
+0,1,"No Deposit","Online TA",Agent,0
+0,34,"No Deposit","Online TA",Agent,0
+0,88,"No Deposit","Offline TA/TO",Agent,0
+0,9,"No Deposit","Online TA",Agent,0
+1,24,"No Deposit","Online TA",Agent,0
+0,97,"No Deposit","Offline TA/TO",Agent,0
+0,60,"No Deposit","Online TA",Agent,0
+0,100,"No Deposit",Direct,Agent,0
+0,50,"No Deposit","Offline TA/TO",Agent,0
+1,47,"No Deposit","Online TA",Agent,0
+0,8,"No Deposit","Online TA",Agent,0
+0,34,"No Deposit","Online TA",Agent,0
+0,47,"No Deposit","Online TA",Agent,0
+0,115,"No Deposit","Offline TA/TO",Agent,0
+1,79,"No Deposit","Online TA",Agent,0
+0,91,"No Deposit","Online TA",Agent,0
+0,98,"No Deposit","Online TA",Agent,0
+0,109,"No Deposit","Online TA",Agent,0
+0,0,"No Deposit","Online TA",Agent,0
+0,98,"No Deposit","Online TA",Agent,0
+0,0,"No Deposit",Direct,Direct,0
+0,9,"No Deposit","Online TA",Agent,0
+0,62,"No Deposit","Online TA",Agent,0
+1,45,"No Deposit","Online TA",Agent,0
+0,42,"No Deposit","Online TA",Agent,0
+0,54,"No Deposit","Online TA",Agent,0
+0,51,"No Deposit","Online TA",Agent,0
+0,54,"No Deposit","Online TA",Agent,0
+0,58,"No Deposit",Direct,Agent,0
+0,0,"No Deposit",Corporate,Agent,0
+1,60,"No Deposit","Offline TA/TO",Agent,0
+1,321,"No Deposit",Direct,Agent,0
+0,40,"No Deposit",Direct,Agent,0
+1,51,"No Deposit","Offline TA/TO",Agent,0
+0,38,"No Deposit",Direct,Direct,0
+1,75,"No Deposit","Online TA",Agent,0
+0,101,"No Deposit","Online TA",Agent,0
+1,42,"No Deposit","Online TA",Agent,0
+0,40,"No Deposit",Direct,Agent,0
+0,109,"No Deposit",Direct,Direct,0
+1,81,"No Deposit","Online TA",Agent,0
+1,98,"No Deposit","Online TA",Agent,0
+0,32,"No Deposit","Offline TA/TO",Agent,0
+0,72,"No Deposit","Online TA",Agent,0
+0,115,"No Deposit","Offline TA/TO",Agent,0
+0,118,"No Deposit",Direct,Agent,0
+0,81,"No Deposit",Direct,Agent,0
+1,95,"No Deposit","Online TA",Agent,0
+0,16,"No Deposit","Online TA",Agent,0
+0,56,"No Deposit","Online TA",Agent,0
+0,88,"No Deposit","Offline TA/TO",Agent,0
+0,41,"No Deposit","Online TA",Agent,0
+1,40,"No Deposit","Offline TA/TO",Agent,0
+0,1,"No Deposit",Corporate,Direct,0
+0,1,"No Deposit","Online TA",Agent,0
+0,1,"No Deposit","Online TA",Agent,0
+1,76,"No Deposit","Online TA",Agent,0
+0,0,"No Deposit","Online TA",Agent,0
+0,49,"No Deposit","Online TA",Agent,0
+0,76,"No Deposit",Direct,Agent,0
+0,73,"No Deposit",Direct,Direct,0
+0,73,"No Deposit",Direct,Direct,0
+0,317,"No Deposit",Direct,Agent,0
+1,112,"No Deposit","Online TA",Agent,0
+0,6,"No Deposit","Online TA",Agent,0
+0,8,"No Deposit","Online TA",Agent,0
+1,96,"No Deposit","Offline TA/TO",Agent,0
+1,96,"No Deposit","Online TA",Agent,0
+0,99,"No Deposit",Direct,Direct,0
+0,66,"No Deposit","Online TA",Agent,0
+0,38,"No Deposit","Online TA",Agent,0
+0,38,"No Deposit","Online TA",Agent,0
+0,113,"No Deposit",Direct,Direct,0
+0,0,"No Deposit",Corporate,Direct,0
+1,62,"No Deposit","Offline TA/TO",Agent,0
+1,39,"No Deposit","Online TA",Agent,0
+0,37,"No Deposit","Online TA",Agent,0
+1,58,"No Deposit","Online TA",Agent,0
+0,37,"No Deposit","Online TA",Agent,0
+0,57,"No Deposit",Groups,Agent,0
+0,57,"No Deposit",Groups,Agent,0
+0,57,"No Deposit",Groups,Agent,0
+0,57,"No Deposit",Groups,Agent,0
+0,57,"No Deposit",Groups,Agent,0
+0,83,"No Deposit","Online TA",Agent,0
+0,57,"No Deposit",Groups,Agent,0
+0,57,"No Deposit",Groups,Agent,0
+1,57,"No Deposit",Groups,Agent,0
+0,57,"No Deposit",Groups,Agent,0
+0,57,"No Deposit",Groups,Agent,0
+0,57,"No Deposit",Groups,Agent,0
+0,57,"No Deposit",Groups,Agent,0
+0,57,"No Deposit",Groups,Agent,0
+0,57,"No Deposit",Groups,Agent,0
+0,57,"No Deposit",Groups,Agent,0
+0,57,"No Deposit",Groups,Agent,0
+0,57,"No Deposit",Groups,Agent,0
+0,57,"No Deposit",Groups,Agent,0
+0,57,"No Deposit",Groups,Agent,0
+0,57,"No Deposit",Groups,Agent,0
+1,66,"No Deposit","Online TA",Agent,0
+0,13,"No Deposit","Online TA",Agent,0
+0,50,"No Deposit","Online TA",Agent,0
+1,48,"No Deposit",Direct,Agent,0
+1,0,"No Deposit","Online TA",Agent,0
+0,7,"No Deposit","Online TA",Agent,0
+0,0,"No Deposit",Direct,Direct,0
+1,66,"No Deposit","Online TA",Agent,0
+0,13,"No Deposit","Online TA",Agent,0
+0,66,"No Deposit","Online TA",Agent,0
+0,10,"No Deposit",Direct,Agent,0
+1,10,"No Deposit",Direct,Agent,0
+1,58,"No Deposit","Online TA",Agent,0
+1,17,"No Deposit","Online TA",Agent,0
+0,19,"No Deposit","Online TA",Agent,0
+0,10,"No Deposit",Direct,Agent,0
+1,12,"No Deposit",Direct,Direct,0
+0,10,"No Deposit",Direct,Agent,0
+0,63,"No Deposit","Online TA",Agent,0
+1,35,"No Deposit","Online TA",Agent,0
+0,113,"No Deposit","Online TA",Agent,0
+1,35,"No Deposit","Online TA",Agent,0
+0,68,"No Deposit","Offline TA/TO",Agent,0
+0,113,"No Deposit","Offline TA/TO",Agent,0
+0,21,"No Deposit",Direct,Direct,0
+0,6,"No Deposit","Online TA",Agent,0
+0,7,"No Deposit",Direct,Direct,0
+0,17,"No Deposit","Online TA",Agent,0
+0,1,"No Deposit","Online TA",Agent,0
+0,2,"No Deposit","Offline TA/TO",Agent,0
+1,15,"No Deposit","Online TA",Agent,0
+1,7,"No Deposit",Direct,Direct,0
+0,11,"No Deposit","Online TA",Agent,0
+1,6,"No Deposit","Online TA",Agent,0
+0,1,"No Deposit",Direct,Direct,0
+0,1,"No Deposit",Direct,Agent,0
+0,48,"No Deposit","Offline TA/TO",Agent,0
+0,15,"No Deposit","Online TA",Agent,0
+1,3,"No Deposit","Offline TA/TO",Agent,0
+1,23,"No Deposit","Online TA",Agent,0
+0,53,"No Deposit","Offline TA/TO",Agent,0
+0,53,"No Deposit","Offline TA/TO",Agent,0
+0,94,"No Deposit",Direct,Agent,0
+0,64,"No Deposit","Offline TA/TO",Agent,0
+0,53,"No Deposit","Offline TA/TO",Agent,0
+0,53,"No Deposit","Offline TA/TO",Agent,0
+0,64,"No Deposit","Offline TA/TO",Agent,0
+0,53,"No Deposit","Offline TA/TO",Agent,0
+0,24,"No Deposit",Direct,Direct,0
+0,24,"No Deposit","Online TA",Agent,0
+0,23,"No Deposit",Direct,Agent,0
+0,53,"No Deposit","Online TA",Agent,0
+1,23,"No Deposit",Direct,Agent,0
+0,90,"No Deposit","Online TA",Agent,0
+0,79,"No Deposit","Online TA",Agent,0
+0,43,"No Deposit","Offline TA/TO",Agent,0
+0,90,"No Deposit","Online TA",Agent,0
+0,65,"No Deposit","Online TA",Agent,0
+0,65,"No Deposit","Online TA",Agent,0
+0,99,"No Deposit",Direct,Agent,0
+0,25,"No Deposit",Direct,Direct,0
+0,92,"No Deposit","Online TA",Agent,0
+0,91,"No Deposit","Online TA",Agent,0
+0,38,"No Deposit","Online TA",Agent,0
+0,6,"No Deposit","Offline TA/TO",Agent,0
+0,38,"No Deposit","Online TA",Agent,0
+0,13,"No Deposit","Online TA",Agent,0
+1,32,"No Deposit","Online TA",Agent,0
+0,315,"No Deposit","Offline TA/TO",Agent,0
+0,8,"No Deposit","Online TA",Agent,0
+1,0,"No Deposit",Direct,Direct,0
+0,91,"No Deposit","Online TA",Agent,0
+0,3,"No Deposit","Online TA",Agent,0
+0,9,"No Deposit",Direct,Direct,0
+0,19,"No Deposit","Online TA",Agent,0
+0,25,"No Deposit",Direct,Agent,0
+0,108,"No Deposit","Online TA",Agent,0
+1,37,"No Deposit","Online TA",Agent,0
+0,45,"No Deposit","Online TA",Agent,0
+0,64,"No Deposit",Direct,Direct,0
+0,44,"No Deposit",Direct,Agent,0
+0,26,"No Deposit","Online TA",Agent,0
+1,96,"No Deposit","Online TA",Agent,0
+1,123,"No Deposit","Online TA",Agent,0
+1,42,"No Deposit","Online TA",Agent,0
+0,59,"No Deposit","Offline TA/TO",Agent,0
+0,28,"No Deposit","Online TA",Agent,0
+0,106,"No Deposit",Direct,Direct,0
+0,1,"No Deposit",Direct,Direct,0
+0,0,"No Deposit",Direct,Direct,0
+0,4,"No Deposit","Online TA",Agent,0
+0,3,"No Deposit",Direct,Direct,0
+0,73,"No Deposit",Direct,Direct,0
+0,44,"No Deposit","Online TA",Agent,0
+0,95,"No Deposit","Offline TA/TO",Agent,0
+0,94,"No Deposit",Direct,Agent,0
+1,40,"No Deposit","Offline TA/TO",Agent,0
+0,64,"No Deposit",Direct,Direct,0
+0,64,"No Deposit",Direct,Direct,0
+0,94,"No Deposit",Direct,Agent,0
+0,57,"No Deposit","Offline TA/TO",Agent,0
+1,60,"No Deposit","Online TA",Agent,0
+0,57,"No Deposit","Offline TA/TO",Agent,0
+0,87,"No Deposit","Online TA",Agent,0
+0,0,"No Deposit",Direct,Direct,0
+0,0,"No Deposit","Online TA",Agent,0
+0,6,"No Deposit",Direct,Agent,0
+0,0,"No Deposit","Online TA",Direct,0
+0,19,"No Deposit","Online TA",Agent,0
+0,4,"No Deposit","Online TA",Agent,0
+1,59,"No Deposit","Online TA",Agent,0
+0,44,"No Deposit",Direct,Direct,0
+1,37,"No Deposit","Online TA",Agent,0
+0,66,"No Deposit",Direct,Direct,0
+1,38,"No Deposit","Offline TA/TO",Agent,0
+1,62,"No Deposit","Offline TA/TO",Agent,0
+0,41,"No Deposit","Online TA",Agent,0
+1,60,"No Deposit","Online TA",Agent,0
+0,104,"No Deposit","Offline TA/TO",Agent,0
+1,62,"No Deposit","Offline TA/TO",Agent,0
+0,117,"No Deposit","Online TA",Agent,0
+1,31,"No Deposit","Online TA",Agent,0
+0,34,"No Deposit","Offline TA/TO",Agent,0
+0,47,"No Deposit","Online TA",Agent,0
+1,24,"No Deposit","Online TA",Agent,0
+1,104,"No Deposit","Online TA",Agent,0
+0,104,"No Deposit","Offline TA/TO",Agent,0
+0,32,"No Deposit","Offline TA/TO",Agent,0
+1,47,"No Deposit","Online TA",Agent,0
+0,29,"No Deposit","Offline TA/TO",Agent,0
+0,30,"No Deposit","Offline TA/TO",Agent,0
+0,123,"No Deposit","Online TA",Agent,0
+0,14,"No Deposit","Offline TA/TO",Agent,0
+1,118,"No Deposit","Online TA",Agent,0
+0,0,"No Deposit","Offline TA/TO",Agent,0
+0,0,"No Deposit","Online TA",Agent,0
+0,79,"No Deposit","Online TA",Agent,0
+0,63,"No Deposit","Online TA",Agent,0
+0,68,"No Deposit","Online TA",Agent,0
+0,96,"No Deposit",Direct,Agent,0
+1,41,"No Deposit","Online TA",Agent,0
+0,46,"No Deposit","Online TA",Agent,0
+1,41,"No Deposit","Online TA",Agent,0
+1,60,"No Deposit","Online TA",Agent,0
+0,41,"No Deposit","Offline TA/TO",Agent,0
+1,69,"No Deposit","Online TA",Agent,0
+1,41,"No Deposit","Online TA",Agent,0
+0,52,"No Deposit",Direct,Agent,0
+1,41,"No Deposit","Online TA",Agent,0
+0,89,"No Deposit","Offline TA/TO",Agent,0
+1,28,"No Deposit",Direct,Direct,0
+0,65,"No Deposit","Online TA",Agent,0
+0,82,"No Deposit","Online TA",Agent,0
+0,42,"No Deposit","Offline TA/TO",Agent,0
+0,62,"No Deposit","Online TA",Agent,0
+1,86,"No Deposit",Direct,Agent,0
+1,118,"No Deposit","Online TA",Agent,0
+0,28,"No Deposit","Offline TA/TO",Agent,0
+1,52,"No Deposit","Offline TA/TO",Agent,0
+1,49,"No Deposit","Offline TA/TO",Agent,0
+0,39,"No Deposit","Offline TA/TO",Agent,0
+0,39,"No Deposit","Offline TA/TO",Agent,0
+0,39,"No Deposit","Offline TA/TO",Agent,0
+1,7,"No Deposit","Offline TA/TO",Agent,0
+1,7,"No Deposit","Offline TA/TO",Agent,0
+1,42,"No Deposit","Online TA",Agent,0
+0,5,"No Deposit",Corporate,Direct,0
+1,81,"No Deposit","Online TA",Agent,0
+1,63,"No Deposit","Online TA",Agent,0
+0,61,"No Deposit","Online TA",Agent,0
+0,8,"No Deposit",Direct,Agent,0
+0,89,"No Deposit",Direct,Agent,0
+0,57,"No Deposit","Online TA",Agent,0
+0,102,"No Deposit","Offline TA/TO",Agent,0
+0,108,"No Deposit","Online TA",Agent,0
+0,28,"No Deposit",Direct,Agent,0
+0,29,"No Deposit","Online TA",Agent,0
+0,0,"No Deposit",Direct,Direct,0
+1,96,"No Deposit","Online TA",Agent,0
+1,44,"No Deposit","Online TA",Agent,0
+0,44,"No Deposit","Online TA",Agent,0
+1,44,"No Deposit","Online TA",Agent,0
+1,44,"No Deposit","Online TA",Agent,0
+1,41,"No Deposit","Online TA",Agent,0
+0,16,"No Deposit","Online TA",Agent,0
+0,73,"No Deposit","Online TA",Agent,0
+0,3,"No Deposit","Online TA",Agent,0
+0,0,"No Deposit",Direct,Agent,0
+1,55,"No Deposit",Direct,Agent,0
+0,33,"No Deposit","Online TA",Agent,0
+1,19,"No Deposit","Online TA",Agent,0
+1,55,"No Deposit","Online TA",Agent,0
+0,33,"No Deposit","Online TA",Agent,0
+1,19,"No Deposit","Online TA",Agent,0
+1,19,"No Deposit",Direct,Direct,0
+0,117,"No Deposit","Offline TA/TO",Agent,0
+1,72,"No Deposit","Online TA",Agent,0
+1,19,"No Deposit","Online TA",Agent,0
+0,34,"No Deposit","Offline TA/TO",Agent,0
+0,9,"No Deposit","Online TA",Agent,0
+0,8,"No Deposit","Online TA",Agent,0
+1,36,"No Deposit",Direct,Direct,0
+0,22,"No Deposit","Online TA",Agent,0
+0,22,"No Deposit","Online TA",Agent,0
+0,22,"No Deposit","Online TA",Agent,0
+0,36,"No Deposit","Online TA",Agent,0
+0,22,"No Deposit","Online TA",Agent,0
+1,22,"No Deposit","Online TA",Agent,0
+0,18,"No Deposit",Direct,Agent,0
+0,8,"No Deposit","Online TA",Agent,0
+1,67,"No Deposit","Online TA",Agent,0
+1,105,"No Deposit","Offline TA/TO",Agent,0
+0,1,"No Deposit","Online TA",Agent,0
+1,67,"No Deposit","Online TA",Agent,0
+0,39,"No Deposit","Offline TA/TO",Agent,0
+1,45,"No Deposit","Online TA",Agent,0
+1,45,"No Deposit","Online TA",Agent,0
+0,14,"No Deposit","Online TA",Agent,0
+1,53,"No Deposit","Online TA",Agent,0
+0,28,"No Deposit","Offline TA/TO",Agent,0
+0,55,"No Deposit","Online TA",Agent,0
+0,55,"No Deposit","Online TA",Agent,0
+0,25,"No Deposit",Direct,Agent,0
+1,43,"No Deposit","Offline TA/TO",Agent,0
+1,109,"No Deposit","Online TA",Agent,0
+1,62,"No Deposit","Online TA",Agent,0
+0,25,"No Deposit",Direct,Agent,0
+0,43,"No Deposit","Online TA",Agent,0
+0,35,"No Deposit","Offline TA/TO",Agent,0
+1,42,"No Deposit","Offline TA/TO",Agent,0
+1,312,"No Deposit","Offline TA/TO",Agent,0
+0,30,"No Deposit","Online TA",Agent,0
+0,47,"No Deposit","Offline TA/TO",Agent,0
+0,40,"No Deposit","Offline TA/TO",Agent,0
+0,11,"No Deposit","Online TA",Agent,0
+0,39,"No Deposit","Offline TA/TO",Agent,0
+1,39,"No Deposit","Online TA",Agent,0
+0,1,"No Deposit",Direct,Direct,0
+1,12,"No Deposit","Online TA",Agent,0
+1,16,"No Deposit","Online TA",Agent,0
+1,16,"No Deposit",Direct,Direct,0
+0,12,"No Deposit","Online TA",Agent,0
+0,51,"No Deposit","Offline TA/TO",Agent,0
+0,67,"No Deposit","Online TA",Agent,0
+0,52,"No Deposit","Offline TA/TO",Agent,0
+0,25,"No Deposit","Online TA",Agent,0
+0,94,"No Deposit","Online TA",Agent,0
+1,54,"No Deposit","Online TA",Agent,0
+0,33,"No Deposit","Online TA",Agent,0
+0,47,"No Deposit",Direct,Direct,0
+0,43,"No Deposit",Direct,Agent,0
+1,87,"No Deposit","Online TA",Agent,0
+0,54,"No Deposit","Online TA",Agent,0
+0,32,"No Deposit","Online TA",Agent,0
+1,29,"No Deposit","Online TA",Agent,0
+1,96,"No Deposit","Online TA",Agent,0
+1,100,"No Deposit","Online TA",Agent,0
+0,54,"No Deposit","Online TA",Agent,0
+0,75,"No Deposit","Online TA",Agent,0
+0,31,"No Deposit","Offline TA/TO",Agent,0
+1,25,"No Deposit",Direct,Agent,0
+0,61,"No Deposit","Online TA",Agent,0
+0,60,"No Deposit","Online TA",Agent,0
+1,31,"No Deposit","Online TA",Agent,0
+1,107,"No Deposit","Online TA",Agent,0
+1,31,"No Deposit","Online TA",Agent,0
+0,115,"No Deposit","Online TA",Agent,0
+0,59,"No Deposit","Offline TA/TO",Agent,0
+1,85,"No Deposit","Offline TA/TO",Agent,0
+0,0,"No Deposit","Online TA",Agent,0
+1,299,"No Deposit","Online TA",Agent,0
+0,50,"No Deposit",Direct,Direct,0
+1,50,"No Deposit","Online TA",Agent,0
+1,88,"No Deposit","Online TA",Agent,0
+1,116,"No Deposit","Online TA",Agent,0
+0,47,"No Deposit","Online TA",Agent,0
+0,48,"No Deposit","Online TA",Agent,0
+1,54,"No Deposit","Online TA",Agent,0
+1,33,"No Deposit","Offline TA/TO",Agent,0
+0,73,"No Deposit",Direct,Agent,0
+1,54,"No Deposit","Online TA",Agent,0
+1,33,"No Deposit","Offline TA/TO",Agent,0
+0,38,"No Deposit",Direct,Agent,0
+0,34,"No Deposit","Online TA",Agent,0
+0,130,"No Deposit",Direct,Agent,0
+1,39,"No Deposit","Offline TA/TO",Agent,0
+1,39,"No Deposit","Offline TA/TO",Agent,0
+0,45,"No Deposit","Offline TA/TO",Agent,0
+0,31,"No Deposit","Online TA",Agent,0
+1,48,"No Deposit","Online TA",Agent,0
+0,59,"No Deposit","Online TA",Agent,0
+1,48,"No Deposit","Online TA",Agent,0
+1,48,"No Deposit","Online TA",Agent,0
+1,48,"No Deposit","Online TA",Agent,0
+0,48,"No Deposit","Online TA",Agent,0
+0,96,"No Deposit","Online TA",Agent,0
+0,51,"No Deposit",Direct,Agent,0
+0,96,"No Deposit","Online TA",Agent,0
+1,41,"No Deposit","Online TA",Agent,0
+0,6,"No Deposit",Direct,Direct,0
+0,27,"No Deposit","Online TA",Agent,0
+0,28,"No Deposit","Offline TA/TO",Agent,0
+0,30,"No Deposit","Online TA",Agent,0
+0,45,"No Deposit","Offline TA/TO",Agent,0
+0,52,"No Deposit",Direct,Direct,0
+0,31,"No Deposit",Direct,Agent,0
+1,74,"No Deposit","Offline TA/TO",Agent,0
+0,31,"No Deposit","Offline TA/TO",Agent,0
+1,87,"No Deposit","Online TA",Agent,0
+0,48,"No Deposit","Online TA",Agent,0
+1,41,"No Deposit","Online TA",Agent,0
+0,35,"No Deposit","Offline TA/TO",Agent,0
+0,28,"No Deposit","Online TA",Agent,0
+0,77,"No Deposit","Online TA",Agent,0
+1,33,"No Deposit","Online TA",Agent,0
+0,30,"No Deposit","Offline TA/TO",Agent,0
+1,34,"No Deposit","Online TA",Agent,0
+1,298,"No Deposit","Offline TA/TO",Agent,0
+0,35,"No Deposit","Online TA",Agent,0
+0,40,"No Deposit","Online TA",Agent,0
+1,101,"No Deposit","Online TA",Agent,0
+1,101,"No Deposit","Online TA",Agent,0
+1,101,"No Deposit","Online TA",Agent,0
+1,101,"No Deposit","Online TA",Agent,0
+0,38,"No Deposit","Offline TA/TO",Agent,0
+0,76,"No Deposit","Online TA",Agent,0
+0,70,"No Deposit","Online TA",Agent,0
+0,70,"No Deposit","Online TA",Agent,0
+0,68,"No Deposit","Online TA",Agent,0
+1,63,"No Deposit","Online TA",Agent,0
+1,11,"No Deposit","Online TA",Agent,0
+0,32,"No Deposit","Offline TA/TO",Agent,0
+0,29,"No Deposit","Offline TA/TO",Agent,0
+0,47,"No Deposit",Direct,Direct,0
+0,50,"No Deposit","Online TA",Agent,0
+1,29,"No Deposit","Online TA",Agent,0
+0,36,"No Deposit",Direct,Agent,0
+0,49,"No Deposit","Online TA",Agent,0
+1,70,"No Deposit","Offline TA/TO",Agent,0
+0,110,"No Deposit","Offline TA/TO",Agent,0
+0,8,"No Deposit","Offline TA/TO",Agent,0
+1,119,"No Deposit","Online TA",Agent,0
+0,30,"No Deposit","Online TA",Agent,0
+1,29,"No Deposit","Online TA",Agent,0
+0,71,"No Deposit","Online TA",Agent,0
+1,37,"No Deposit","Offline TA/TO",Agent,0
+1,40,"No Deposit",Direct,Direct,0
+0,37,"No Deposit",Direct,Agent,0
+0,0,"No Deposit",Direct,Direct,0
+1,37,"No Deposit","Offline TA/TO",Agent,0
+0,37,"No Deposit",Direct,Agent,0
+0,97,"No Deposit","Online TA",Agent,0
+1,71,"No Deposit","Online TA",Agent,0
+1,118,"No Deposit","Online TA",Agent,0
+0,102,"No Deposit","Offline TA/TO",Agent,0
+1,54,"No Deposit","Online TA",Agent,0
+1,58,"No Deposit","Online TA",Agent,0
+0,34,"No Deposit","Online TA",Agent,0
+1,105,"No Deposit","Offline TA/TO",Agent,0
+1,47,"No Deposit","Online TA",Agent,0
+1,15,"No Deposit","Online TA",Agent,0
+0,37,"No Deposit","Offline TA/TO",Agent,0
+1,0,"No Deposit",Corporate,Direct,0
+1,8,"No Deposit","Online TA",Agent,0
+0,17,"No Deposit","Online TA",Agent,0
+0,3,"No Deposit",Direct,Direct,0
+1,30,"No Deposit","Online TA",Agent,0
+1,31,"No Deposit","Online TA",Agent,0
+1,66,"No Deposit","Online TA",Agent,0
+0,52,"No Deposit","Offline TA/TO",Agent,0
+0,20,"No Deposit","Online TA",Agent,0
+1,30,"No Deposit","Online TA",Agent,0
+1,31,"No Deposit","Online TA",Agent,0
+1,62,"No Deposit","Online TA",Agent,0
+1,65,"No Deposit","Online TA",Agent,0
+1,64,"No Deposit","Online TA",Agent,0
+0,77,"No Deposit",Direct,Direct,0
+0,75,"No Deposit","Offline TA/TO",Agent,0
+0,75,"No Deposit","Offline TA/TO",Agent,0
+1,62,"No Deposit",Direct,Agent,0
+0,42,"No Deposit","Offline TA/TO",Agent,0
+0,46,"No Deposit","Online TA",Agent,0
+0,0,"No Deposit",Direct,Direct,0
+1,25,"No Deposit","Online TA",Agent,0
+1,16,"No Deposit","Online TA",Agent,0
+1,16,"No Deposit","Online TA",Agent,0
+0,16,"No Deposit",Direct,Direct,0
+1,4,"No Deposit","Online TA",Agent,0
+0,4,"No Deposit","Online TA",Agent,0
+1,25,"No Deposit","Online TA",Agent,0
+1,83,"No Deposit","Online TA",Agent,0
+0,4,"No Deposit","Online TA",Agent,0
+1,56,"No Deposit","Online TA",Agent,0
+1,32,"No Deposit","Online TA",Agent,0
+0,32,"No Deposit","Online TA",Agent,0
+0,0,"No Deposit","Online TA",Agent,0
+1,18,"No Deposit","Online TA",Agent,0
+1,23,"No Deposit",Direct,Direct,0
+1,39,"No Deposit","Online TA",Agent,0
+1,18,"No Deposit","Online TA",Agent,0
+1,18,"No Deposit","Online TA",Agent,0
+1,23,"No Deposit","Online TA",Agent,0
+0,286,"No Deposit",Direct,Agent,0
+0,72,"No Deposit","Online TA",Agent,0
+1,136,"No Deposit","Online TA",Agent,0
+0,58,"No Deposit","Online TA",Agent,0
+0,80,"No Deposit","Online TA",Agent,0
+0,113,"No Deposit","Offline TA/TO",Agent,0
+0,129,"No Deposit","Offline TA/TO",Agent,0
+1,84,"No Deposit","Offline TA/TO",Agent,0
+1,84,"No Deposit","Offline TA/TO",Agent,0
+1,89,"No Deposit",Direct,Direct,0
+1,10,"No Deposit",Direct,Direct,0
+1,80,"No Deposit","Online TA",Agent,0
+1,10,"No Deposit",Direct,Direct,0
+1,10,"No Deposit",Direct,Direct,0
+1,24,"No Deposit","Online TA",Agent,0
+0,1,"No Deposit","Online TA",Direct,0
+1,9,"No Deposit","Online TA",Agent,0
+1,3,"No Deposit",Direct,Agent,0
+0,3,"No Deposit","Online TA",Agent,0
+1,124,"No Deposit","Online TA",Agent,0
+1,74,"No Deposit",Direct,Agent,0
+1,82,"No Deposit","Online TA",Agent,0
+1,91,"No Deposit","Online TA",Agent,0
+1,77,"No Deposit","Online TA",Agent,0
+1,130,"No Deposit","Online TA",Agent,0
+1,91,"No Deposit","Online TA",Agent,0
+0,79,"No Deposit",Direct,Direct,0
+1,130,"No Deposit","Offline TA/TO",Agent,0
+0,66,"No Deposit","Online TA",Agent,0
+1,53,"No Deposit","Online TA",Agent,0
+1,80,"No Deposit","Online TA",Agent,0
+1,77,"No Deposit","Online TA",Agent,0
+1,57,"No Deposit","Online TA",Agent,0
+0,11,"No Deposit","Offline TA/TO",Agent,0
+1,25,"No Deposit","Online TA",Agent,0
+1,2,"No Deposit","Online TA",Agent,0
+1,36,"No Deposit","Online TA",Agent,0
+1,36,"No Deposit","Online TA",Agent,0
+0,115,"No Deposit","Offline TA/TO",Agent,0
+0,95,"No Deposit",Direct,Direct,0
+0,67,"No Deposit",Direct,Direct,0
+0,60,"No Deposit",Direct,Direct,0
+0,34,"No Deposit",Direct,Agent,0
+0,78,"No Deposit","Offline TA/TO",Agent,0
+0,93,"No Deposit","Offline TA/TO",Agent,0
+1,327,"No Deposit","Offline TA/TO",Agent,0
+0,21,"No Deposit",Direct,Agent,0
+0,0,"No Deposit","Online TA",Agent,0
+1,47,"No Deposit","Online TA",Agent,0
+1,81,"No Deposit","Offline TA/TO",Agent,0
+1,52,"No Deposit","Online TA",Agent,0
+1,13,"No Deposit","Offline TA/TO",Agent,0
+0,83,"No Deposit","Online TA",Agent,0
+1,131,"No Deposit","Offline TA/TO",Agent,0
+0,460,"No Deposit","Offline TA/TO",Agent,0
+1,82,"No Deposit","Online TA",Agent,0
+1,61,"No Deposit","Online TA",Agent,0
+0,94,"No Deposit","Online TA",Agent,0
+0,1,"No Deposit","Online TA",Agent,0
+0,0,"No Deposit",Direct,Agent,0
+1,36,"No Deposit",Direct,Agent,0
+1,61,"No Deposit","Online TA",Agent,0
+0,13,"No Deposit",Direct,Direct,0
+0,13,"No Deposit",Direct,Direct,0
+1,15,"No Deposit","Online TA",Agent,0
+0,14,"No Deposit","Online TA",Agent,0
+1,13,"No Deposit","Online TA",Agent,0
+0,140,"No Deposit","Offline TA/TO",Agent,0
+0,6,"No Deposit","Online TA",Agent,0
+0,140,"No Deposit","Offline TA/TO",Agent,0
+0,81,"No Deposit",Direct,Agent,0
+0,1,"No Deposit","Online TA",Agent,0
+0,65,"No Deposit","Offline TA/TO",Agent,0
+1,0,"No Deposit",Direct,Direct,0
+0,2,"No Deposit","Online TA",Agent,0
+0,0,"No Deposit",Direct,Direct,0
+1,114,"No Deposit","Online TA",Agent,0
+1,111,"No Deposit","Online TA",Agent,0
+0,44,"No Deposit","Online TA",Agent,0
+0,139,"No Deposit","Online TA",Agent,0
+1,57,"No Deposit","Online TA",Agent,0
+1,16,"No Deposit","Online TA",Agent,0
+0,139,"No Deposit","Online TA",Agent,0
+0,84,"No Deposit","Online TA",Agent,0
+1,117,"No Deposit","Online TA",Agent,0
+1,69,"No Deposit",Direct,Agent,0
+0,2,"No Deposit","Online TA",Agent,0
+1,118,"No Deposit","Online TA",Agent,0
+0,129,"No Deposit",Direct,Direct,0
+0,9,"No Deposit","Online TA",Agent,0
+0,52,"No Deposit",Direct,Agent,0
+0,65,"No Deposit","Offline TA/TO",Agent,0
+0,7,"No Deposit","Online TA",Agent,0
+1,28,"No Deposit","Online TA",Agent,0
+0,3,"No Deposit","Online TA",Agent,0
+0,87,"No Deposit","Online TA",Agent,0
+0,51,"No Deposit","Online TA",Agent,0
+0,136,"No Deposit",Direct,Agent,0
+0,4,"No Deposit","Online TA",Agent,0
+0,1,"No Deposit",Corporate,Direct,0
+1,49,"No Deposit","Online TA",Agent,0
+0,4,"No Deposit","Online TA",Agent,0
+1,45,"No Deposit","Online TA",Agent,0
+0,6,"No Deposit","Online TA",Agent,0
+0,4,"No Deposit","Online TA",Agent,0
+1,53,"No Deposit","Online TA",Agent,0
+0,52,"No Deposit",Direct,Agent,0
+1,4,"No Deposit","Online TA",Agent,0
+0,98,"No Deposit","Online TA",Agent,0
+1,46,"No Deposit","Online TA",Agent,0
+1,122,"No Deposit","Online TA",Agent,0
+0,83,"No Deposit","Offline TA/TO",Agent,0
+0,16,"No Deposit","Online TA",Agent,0
+1,43,"No Deposit","Online TA",Agent,0
+1,73,"No Deposit","Online TA",Agent,0
+0,116,"No Deposit","Offline TA/TO",Agent,0
+1,113,"No Deposit","Offline TA/TO",Agent,0
+1,113,"No Deposit","Offline TA/TO",Agent,0
+0,51,"No Deposit","Online TA",Agent,0
+0,65,"No Deposit","Online TA",Agent,0
+0,0,"No Deposit","Online TA",Agent,0
+1,87,"No Deposit","Online TA",Agent,0
+1,106,"No Deposit","Online TA",Agent,0
+0,5,"No Deposit","Online TA",Agent,0
+0,98,"No Deposit","Online TA",Agent,0
+1,78,"No Deposit",Direct,Agent,0
+0,4,"No Deposit","Online TA",Agent,0
+0,5,"No Deposit","Online TA",Agent,0
+0,3,"No Deposit","Online TA",Agent,0
+0,85,"No Deposit","Online TA",Agent,0
+1,137,"No Deposit","Online TA",Agent,0
+1,67,"No Deposit","Online TA",Agent,0
+1,54,"No Deposit","Online TA",Agent,0
+1,87,"No Deposit","Online TA",Agent,0
+1,54,"No Deposit",Direct,Agent,0
+0,12,"No Deposit","Offline TA/TO",Direct,0
+1,60,"No Deposit","Offline TA/TO",Agent,0
+0,75,"No Deposit",Direct,Agent,0
+1,54,"No Deposit",Direct,Agent,0
+0,126,"No Deposit","Offline TA/TO",Agent,0
+1,54,"No Deposit","Online TA",Agent,0
+1,84,"No Deposit","Online TA",Agent,0
+1,106,"No Deposit","Offline TA/TO",Agent,0
+0,136,"No Deposit","Offline TA/TO",Agent,0
+0,98,"No Deposit","Offline TA/TO",Agent,0
+1,91,"No Deposit","Online TA",Agent,0
+1,58,"No Deposit",Direct,Agent,0
+0,61,"No Deposit","Online TA",Agent,0
+0,0,"No Deposit",Direct,Direct,0
+0,5,"No Deposit","Online TA",Agent,0
+0,2,"No Deposit","Online TA",Agent,0
+1,9,"No Deposit",Direct,Agent,0
+1,10,"No Deposit","Online TA",Agent,0
+0,62,"No Deposit","Online TA",Agent,0
+0,34,"No Deposit","Online TA",Agent,0
+0,82,"No Deposit","Online TA",Agent,0
+1,65,"No Deposit","Online TA",Agent,0
+1,129,"No Deposit","Online TA",Agent,0
+0,55,"No Deposit","Online TA",Agent,0
+1,122,"No Deposit","Online TA",Agent,0
+1,41,"No Deposit","Online TA",Agent,0
+1,41,"No Deposit","Online TA",Agent,0
+0,81,"No Deposit",Direct,Agent,0
+0,59,"No Deposit","Offline TA/TO",Agent,0

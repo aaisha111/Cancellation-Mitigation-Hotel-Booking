@@ -1,0 +1,7 @@
+booking_source,lead_time_bucket,total_bookings,cancel_rate_pct
+"Direct Booking","Short (0-30 Days)",10251,12.46
+"Direct Booking","Medium (31-90 Days)",2381,36.58
+"Direct Booking","Long (90+ Days)",3708,50.76
+"Travel Agent","Short (0-30 Days)",28455,20.76
+"Travel Agent","Medium (31-90 Days)",27172,37.80
+"Travel Agent","Long (90+ Days)",47423,50.64
